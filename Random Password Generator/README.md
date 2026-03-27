@@ -1,4 +1,4 @@
-🔐 Random Password Generator
+#🔐 Random Password Generator
 
 A simple and secure Random Password Generator built with JavaScript. This project allows users to generate strong passwords based on selected criteria such as length, uppercase/lowercase letters, numbers, and special characters.
 

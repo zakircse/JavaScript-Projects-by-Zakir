@@ -4,13 +4,20 @@ A simple and secure Random Password Generator built with JavaScript. This projec
 
 🚀 Features
 Generate strong and secure passwords
+
 Customize password length
+
 Include/exclude:
-Uppercase letters (A–Z)
-Lowercase letters (a–z)
-Numbers (0–9)
-Special characters (!@#$%^&*)
+  Uppercase letters (A–Z)
+  
+  Lowercase letters (a–z)
+  
+  Numbers (0–9)
+  
+  Special characters (!@#$%^&*)
+  
 Copy password to clipboard
+
 Responsive and user-friendly UI
 
 🛠️ Technologies Used
